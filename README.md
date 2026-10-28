@@ -16,7 +16,7 @@ Product Manager in Porto, working on AI inside complex B2B platforms. This is wh
 | | What | Built with |
 |---|---|---|
 | [**AI cellar**](https://github.com/davidasobrinho/AI.cellar) · [live](https://ai-cellar.web.app) | A phone-first wine cellar with a personal sommelier: drinking windows, a tasting journal, a taste profile, and picks from a photo of a label or a wine list. Early prototype | React, TypeScript, Firebase, Gemini |
-| [**SOBRI Porto guide**](https://github.com/davidasobrinho/sobri-porto-guide) · [live](https://sobri-porto-guide.david-asobrinho.workers.dev/) | An interactive Porto city guide for SOBRI Cork House guests: map, list, my own photos and reviews | Leaflet, OpenStreetMap, Cloudflare |
+| [**SOBRI Porto guide**](https://github.com/davidasobrinho/sobri-porto-guide) · [live](https://guide.sobri.pt/) | An interactive Porto city guide for SOBRI Cork House guests: map, list, my own photos and reviews | Leaflet, OpenStreetMap, Cloudflare |
 
 #### 🤖 Agents
 
